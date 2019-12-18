@@ -1,3 +1,6 @@
+## Estimated time to complete?
+X hours | X days
+
 ## Expected Behaviour
 
 ## Actual Behaviour
